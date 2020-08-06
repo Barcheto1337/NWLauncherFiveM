@@ -1,0 +1,10 @@
+E:\Project\NW\NW\bin\Debug\NW.exe.config
+E:\Project\NW\NW\bin\Debug\NW.exe
+E:\Project\NW\NW\bin\Debug\NW.pdb
+E:\Project\NW\NW\obj\Debug\NW.Form1.resources
+E:\Project\NW\NW\obj\Debug\NW.Properties.Resources.resources
+E:\Project\NW\NW\obj\Debug\NW.csproj.GenerateResource.cache
+E:\Project\NW\NW\obj\Debug\NW.csproj.CoreCompileInputs.cache
+E:\Project\NW\NW\obj\Debug\NW.exe
+E:\Project\NW\NW\obj\Debug\NW.pdb
+E:\Project\NW\NW\obj\Debug\NW.csprojAssemblyReference.cache
